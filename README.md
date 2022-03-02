@@ -5,16 +5,13 @@
 # You can use Turbo C saves you the trouble of but I REFUSE TO, like any other SANE Human Being.
 
 </span>
-
----
-
-
+    
 
 1. Anyway, First you need to install [MinGW](https://osdn.net/projects/mingw/) 
 <br>
     Run the downloaded installer (Working Internet Connection is required).
-
-    the following options should cover the necessary;
+<br>
+    the following options should cover the necessary;  
 <br> ✅ mingw32-base
 <br> ✅ mingw32-gcc-g++   
 
@@ -30,6 +27,6 @@
 4. To compile use the following ld flags <br>
 ```-lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32```
 i.e - ```mingw32-g++ .\test.cpp -o output -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32 ```
-<br> although I recommend using Makefile, far superior way.
+<br> although I recommend using Makefile, far superior way. A basic Makefile is provided.
 
 </div>
