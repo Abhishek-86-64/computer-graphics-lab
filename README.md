@@ -2,7 +2,7 @@
 
 <span style="font-size:14px">
 
-## You can use Turbo C saves you the trouble of but I REFUSE TO, like any other SANE Human Being.
+## You can use Turbo C saves you the trouble but I REFUSE TO, like any other SANE Human Being.
 
 </span>
     
