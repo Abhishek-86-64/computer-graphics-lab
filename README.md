@@ -2,18 +2,16 @@
 
 <span style="font-size:14px">
 
-# You can use Turbo C saves you the trouble of but I REFUSE TO, like any other SANE Human Being.
+## You can use Turbo C saves you the trouble of but I REFUSE TO, like any other SANE Human Being.
 
 </span>
     
 
 1. Anyway, First you need to install [MinGW](https://osdn.net/projects/mingw/) 
-<br>
-    Run the downloaded installer (Working Internet Connection is required).
-<br>
-    the following options should cover the necessary;  
-<br> ✅ mingw32-base
-<br> ✅ mingw32-gcc-g++   
+<br>    Run the downloaded installer (*Working Internet Connection is required*).
+<br>    the following options should cover the necessary; 
+<br>    ✅ mingw32-base
+<br>    ✅ mingw32-gcc-g++   
 
 2. Download the files under [required_files](required_files)    <br> then,
     - put <span style="color:cyan">graphics.h</span> and <span style="color:cyan">winbgim.h</span> inside 
