@@ -11,7 +11,9 @@
 <br>    Run the downloaded installer (*Working Internet Connection is required*).
 <br>    the following options should cover the necessary; 
 <br>    ✅ mingw32-base
-<br>    ✅ mingw32-gcc-g++   
+<br>    ✅ mingw32-gcc-g++
+<br>    Then hit Installation > Apply Changes.
+<br>    Don't forget to add the path of bin in System Variables i.e ```C:\MinGW\bin``` to Environment variables.
 
 2. Download the files under [required_files](required_files)    <br> then,
     - put <span style="color:cyan">graphics.h</span> and <span style="color:cyan">winbgim.h</span> inside 
