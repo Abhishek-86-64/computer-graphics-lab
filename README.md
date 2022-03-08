@@ -5,7 +5,7 @@
 ## You can use Turbo C saves you the trouble but I REFUSE TO, like any other SANE Human Being.
 
 </span>
-    
+Download this repo as zip.    
 
 1. Anyway, First you need to install [MinGW](https://osdn.net/projects/mingw/) 
 <br>    Run the downloaded installer (*Working Internet Connection is required*).
